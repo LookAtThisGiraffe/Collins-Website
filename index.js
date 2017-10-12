@@ -19,16 +19,16 @@ function openCity(evt, cityName) {
     evt.currentTarget.className += " active";
 }
 <script>
-var audio = new Audio("http://music.ogg" ) ;
+var audio = new Audio("XXX x SKIMASK.mp3" ) ;
 
 audio.oncanplaythrough = function(){
-audio.play();
+audio.play(XXX x SKIMASK.mp3);
 }
 
 audio.loop = true;
 
-audio.onended = function(){
-audio.play();
+audio.onended = function(XXX x SKIMASK.mp3){
+audio.play(XXX x SKIMASK.mp3);
 }
 
 </script>
